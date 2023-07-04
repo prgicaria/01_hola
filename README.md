@@ -1,4 +1,4 @@
-# 01 Hola món!
+# 01 Hola, món!
 Primer programa
 
 Crea un fitxer anomenat "hola.py" i copia el següent codi:

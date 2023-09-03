@@ -2,7 +2,7 @@
 
 Primer programa.
 
-Crea un fitxer anomenat "hola.py" i copia el següent codi:
+Crea un fitxer anomenat "01_hola.py" i copia el següent codi:
 
 ```py
 print("Hola, món!")
